@@ -1,5 +1,10 @@
 # Technical channels for DataRefuge:
 
+Order of preference for saving datasets:
+1. Web Archiving.
+1. Web Scraping + WARC
+1. Download and Upload to CKAN
+
 ## Using a list of pre-sorted datasets and datasources
 
 For:
