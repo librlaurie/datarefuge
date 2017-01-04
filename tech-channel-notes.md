@@ -5,7 +5,7 @@ Order of preference for saving datasets:
 1. Web Scraping + WARC
 1. Download and Upload to CKAN
 
-## Part One: Add to the list of pre-sorted datasets and data sources
+## Part One: Gathering and Sorting
 
 Lots of work has been done by EDGI, and we have a team of volunteer librarians and archivists working on this part. It will rely on a variety of sources:
 
@@ -15,6 +15,8 @@ Lots of work has been done by EDGI, and we have a team of volunteer librarians a
 2. Crawls of government websites using sitemaps and tools (from EDGI) to identify  -  need to link to appropriate how-tos from EDGI for the web crawling parts.
 - Check these against 1, to de-dupe and to add metadata
 
+**Sorting**
+1. Metadata volunteers and some scripts to de-dupe, organize by agency, check other sources, and classify into those that can be added to EoT and those that can't.
 
 ## Part Two: Using a list of pre-sorted datasets and datasources
 
