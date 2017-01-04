@@ -5,7 +5,18 @@ Order of preference for saving datasets:
 1. Web Scraping + WARC
 1. Download and Upload to CKAN
 
-## Using a list of pre-sorted datasets and datasources
+## Part One: Add to the list of pre-sorted datasets and data sources
+
+Lots of work has been done by EDGI, and we have a team of volunteer librarians and archivists working on this part. It will rely on a variety of sources:
+
+**Gathering**
+1. Survey currently sent through wide distribution channels to gather lists of valuable/vulnerable data
+- Metadata volunteers are double checking these to ensure that we have the right data for each dataset, and to pull like ones together. Once this is done, this will be the list used for part two below.
+2. Crawls of government websites using sitemaps and tools (from EDGI) to identify  -  need to link to appropriate how-tos from EDGI for the web crawling parts.
+- Check these against 1, to de-dupe and to add metadata
+
+
+## Part Two: Using a list of pre-sorted datasets and datasources
 
 For:
 
@@ -29,9 +40,4 @@ For each:
 
 ...
 
-## Add to the list of pre-sorted datasets and data sources
 
-Lots of work has been done by EDGI, and we have a team of volunteer librarians and archivists working on this part. It will rely on a variety of sources:
-
-1. Survey currently sent through wide distribution channels to gather lists of valuable/vulnerable data
-2. Crawls of government websites using sitemaps and tools (from EDGI) to identify  —> de-duped against existing lists
